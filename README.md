@@ -1,4 +1,4 @@
-# <img src="public/icons/icon_48.png" width="45" align="left"> Alina Test
+# <img src="public/icons/icon_48.png" width="45" align="left"> Time Tracker
 
 My Chrome Extension
 
